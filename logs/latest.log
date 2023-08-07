@@ -1,0 +1,26 @@
+[12:52:38] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[12:53:18] [Server thread/INFO]: Loading properties
+[12:53:18] [Server thread/INFO]: Default game type: SURVIVAL
+[12:53:18] [Server thread/INFO]: Generating keypair
+[12:53:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:53:47] [Server thread/INFO]: Preparing level "world"
+[12:53:49] [Server thread/INFO]: Preparing start region for level 0
+[12:53:50] [Server thread/INFO]: Preparing spawn area: 69%
+[12:53:50] [Server thread/INFO]: Done (3.564s)! For help, type "help" or "?"
+[12:59:18] [Server thread/INFO]: Stopping the server
+[12:59:18] [Server thread/INFO]: Stopping server
+[12:59:18] [Server thread/INFO]: Saving players
+[12:59:18] [Server thread/INFO]: Saving worlds
+[12:59:18] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[12:59:18] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[12:59:18] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[12:59:18] [Server thread/INFO]: Saving chunks for level 'world'/Twilight Forest
+[12:59:18] [Server thread/INFO]: Saving chunks for level 'world'/Underdark
+[12:59:18] [Server thread/INFO]: Saving chunks for level 'world'/Dungeon
+[12:59:18] [Server thread/INFO]: Saving chunks for level 'world'/Spirit World
+[12:59:18] [Server thread/INFO]: Saving chunks for level 'world'/Torment
+[12:59:18] [Server thread/INFO]: Saving chunks for level 'world'/Mirror
+[12:59:18] [Server thread/INFO]: Saving chunks for level 'world'/The Outer Lands
+[12:59:18] [Server thread/INFO]: Saving chunks for level 'world'/Bedrock
+[12:59:18] [Server thread/INFO]: Saving chunks for level 'world'/The Last Millenium
+[12:59:18] [Server thread/INFO]: Saving chunks for level 'world'/Mining World
